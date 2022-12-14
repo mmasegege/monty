@@ -6,4 +6,3 @@ This is a language that contains specific instructions to manipulate data inform
 * C files are compiled using gcc 4.8.4
 * C files are written according to the C90 standard
 * Tested on Ubuntu 20.04 LTS
-
